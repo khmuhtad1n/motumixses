@@ -1,0 +1,53 @@
+{
+    "wallet": {
+        "ltc": "MMNGXaiMfQ9HXTa8NYqPHFfTaXourXjvHs",
+        "doge": "D935gmhjmts9VnmQ3JVFPgPS9LP5BrCunP",
+        "zec": "t1Pk2K55K5WNLhaur43pzt7PfBPaSjvb2vL",
+        "bch": "qqakk2q7mfegxpqlfpjhu8arw2zch5hd9vf7g3j3tt",
+        "btc": "3LD1sDxEeXHMki4Ae1xRYViFiEsSWiVFcT"
+    },
+    "referral": {
+        "mode": "on",
+        "ref_5bot": "on",
+        "ref_ltc": "ANh3",
+        "ref_doge": "MC3G",
+        "ref_zec": "jdDi",
+        "ref_bch": "L2Fs",
+        "ref_btc": "sp4H"
+    },
+    "setting": {
+        "allow_NSFW": "on",
+        "auto_switch_mode": "off",
+        "banyak_msg_bot":20,
+        "banyak_join":20,
+        "banyak_visit":200
+    },
+    "api": {
+        "id": "974754",
+        "hash": "6295657bbae725bfe8dfcca5d9e323e6"
+    },
+    "fitur": {
+        "grup_tuyul": {
+            "mode": "on",
+            "chat_balance": "on",
+            "group": "@yulmotulucky",
+            "chat": ["Hai..","absen","good😃","tron"," hehehehe","very nice","hi all","😊😊😊😊😊","nice","Thanks gan"]
+        }, 
+        "proxy": {
+            "proxy": "on",
+            "host":"proxy.digitalresistance.dog",
+            "port":443,
+            "secret":"d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "leave": {
+            "leave": "on",
+            "usia_channel_leave":7
+        },
+        "mode":{
+            "msg":"on",
+            "join":"off",
+            "visit":"on",
+            "auto_wd":"on"
+        }
+    }
+}
